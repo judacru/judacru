@@ -4,13 +4,11 @@ Soy un desarrollador backend con experiencia en **Node.js**, **PHP**, **bases de
 
 ## 🚀 Mis Habilidades
 
-- **Lenguajes**: JavaScript (Node.js), PHP, HTML, CSS
+- **Lenguajes**: JavaScript (Node.js, React), PHP, HTML, CSS
 - **Frameworks & Librerías**: Express.js, Laravel, Spring boot
 - **Bases de Datos**: MySQL, PostgreSQL, MongoDB
 - **Herramientas de Desarrollo**: Docker, Git
 - **Otros**: APIs RESTful, autenticación JWT, integración de servicios externos, optimización de rendimiento
-
-## 📈 Estadísticas de GitHub
 
 ## 📫 Cómo contactar conmigo
 
