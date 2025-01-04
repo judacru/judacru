@@ -1,16 +1,19 @@
-### Hi there 👋
+# ¡Hola! Soy Juan David Cruz 👋
 
-<!--
-**judacru/judacru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador backend con experiencia en **Node.js**, **PHP**, **bases de datos SQL/NoSQL**, y el desarrollo de **APIs escalables**. A lo largo de mi carrera, he trabajado en proyectos que van desde plataformas web complejas hasta soluciones personalizadas para clientes como la Central Ganadera de Antioquia y BLE en Bogotá.
 
-Here are some ideas to get you started:
+## 🚀 Mis Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes**: JavaScript (Node.js), PHP, HTML, CSS
+- **Frameworks & Librerías**: Express.js, Laravel, Spring boot
+- **Bases de Datos**: MySQL, PostgreSQL, MongoDB
+- **Herramientas de Desarrollo**: Docker, Git
+- **Otros**: APIs RESTful, autenticación JWT, integración de servicios externos, optimización de rendimiento
+
+## 📈 Estadísticas de GitHub
+
+## 📫 Cómo contactar conmigo
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/judacru/
+
+Gracias por visitar mi perfil, ¡espero que podamos colaborar pronto! 🙌
