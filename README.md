@@ -10,6 +10,10 @@ Soy un desarrollador backend con experiencia en **Node.js**, **PHP**, **bases de
 - **Herramientas de Desarrollo**: Docker, Git
 - **Otros**: APIs RESTful, autenticación JWT, integración de servicios externos, optimización de rendimiento
 
+## 🌐 Mi Portafolio
+
+Puedes ver mi portafolio completo aquí: [https://judacru.com](https://judacru.com/)
+
 ## 📫 Cómo contactar conmigo
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/judacru/
